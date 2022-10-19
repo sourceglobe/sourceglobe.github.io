@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3566d15e.css",
+    "main.js": "/static/js/main.39d855c8.js",
+    "static/js/787.8c8ef3d0.chunk.js": "/static/js/787.8c8ef3d0.chunk.js",
+    "static/media/hero-image.jpg": "/static/media/hero-image.8f1e91f4adb3c801a619.jpg",
+    "static/media/sourceglobe-logo-white-on-transparent-128x128.png": "/static/media/sourceglobe-logo-white-on-transparent-128x128.ff61105a26918317472e.png",
+    "index.html": "/index.html",
+    "main.3566d15e.css.map": "/static/css/main.3566d15e.css.map",
+    "main.39d855c8.js.map": "/static/js/main.39d855c8.js.map",
+    "787.8c8ef3d0.chunk.js.map": "/static/js/787.8c8ef3d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3566d15e.css",
+    "static/js/main.39d855c8.js"
+  ]
+}
