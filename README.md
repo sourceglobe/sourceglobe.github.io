@@ -1,3 +1,1 @@
 # Sourceglobe
-
-Hello world!
