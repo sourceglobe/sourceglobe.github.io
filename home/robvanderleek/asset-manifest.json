@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee000a65.css",
-    "main.js": "/static/js/main.ef357ebf.js",
+    "main.css": "/static/css/main.fd7718b1.css",
+    "main.js": "/static/js/main.561916ae.js",
     "static/js/27.defb36f2.chunk.js": "/static/js/27.defb36f2.chunk.js",
+    "static/media/sourceglobe-caretaker-bot.png": "/static/media/sourceglobe-caretaker-bot.fc13f1d8e9503ecef8e2.png",
     "static/media/hero-image.jpg": "/static/media/hero-image.34269d565b21d3458911.jpg",
     "static/media/sourceglobe-logo-green-on-transparent-128x128.png": "/static/media/sourceglobe-logo-green-on-transparent-128x128.0c0f268394fb3eb0598a.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.ee000a65.css",
-    "static/js/main.ef357ebf.js"
+    "static/css/main.fd7718b1.css",
+    "static/js/main.561916ae.js"
   ]
 }
