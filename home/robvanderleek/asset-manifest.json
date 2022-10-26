@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fd7718b1.css",
-    "main.js": "/static/js/main.561916ae.js",
+    "main.js": "/static/js/main.5cea949b.js",
     "static/js/27.defb36f2.chunk.js": "/static/js/27.defb36f2.chunk.js",
     "static/media/sourceglobe-caretaker-bot.png": "/static/media/sourceglobe-caretaker-bot.fc13f1d8e9503ecef8e2.png",
     "static/media/hero-image.jpg": "/static/media/hero-image.34269d565b21d3458911.jpg",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.fd7718b1.css",
-    "static/js/main.561916ae.js"
+    "static/js/main.5cea949b.js"
   ]
 }
